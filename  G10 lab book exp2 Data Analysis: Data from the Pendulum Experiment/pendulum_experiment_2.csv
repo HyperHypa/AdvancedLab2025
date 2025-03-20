@@ -1,0 +1,6 @@
+Length (m),Duration of 10 swings (s) 1,Duration of 10 swings (s) 2,Duration of 10 swings (s) 3,Duration of 10 swings (s) 4,Duration of 10 swings (s) 5,Duration of a swing (s) 1,Duration of a swing (s) 2,Duration of a swing (s) 3,Duration of a swing (s) 4,Duration of a swing (s) 5,Average period of a swing (s),SD of T (s),Theoretical Value of Oscillation Period (s),Deviation (%)
+0.2,8.6,8.65,8.8,8.65,8.89,0.86,0.865,0.88,0.865,0.889,0.8718,0.019,0.8973,2.84
+0.25,9.82,9.89,9.98,9.82,9.96,0.982,0.989,0.998,0.982,0.996,0.9894,0.0067,1.0032,1.37
+0.3,10.89,11.04,10.98,10.94,10.97,1.089,1.104,1.098,1.094,1.097,1.0964,0.0049,1.0989,0.22
+0.35,11.82,11.81,11.77,11.96,11.71,1.182,1.181,1.177,1.196,1.171,1.1814,0.0083,1.2331,4.19
+0.4,12.67,12.72,12.79,12.71,12.71,1.267,1.272,1.279,1.271,1.271,1.272,0.0039,1.3183,3.51
